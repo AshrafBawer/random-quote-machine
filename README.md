@@ -1,2 +1,2 @@
-# To see the non-compresed code version go to master brunch.
+# To see the non-compresed code version switch to master brunch.
 a random quote machine developed with react
